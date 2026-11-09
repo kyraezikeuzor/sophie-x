@@ -8,7 +8,7 @@ export const metadata: Metadata = { title: "Blog" };
 export default function BlogPage() {
   return (
     <main id="main" className="page page-wide">
-      <PageHeader title="Blog" subtitle="Stories and thoughts from the Louder Than Your Thoughts team." />
+      <PageHeader title="Blog" subtitle="Stories and thoughts from Girls Who Rise." />
       <div className="post-list rise rise-2">
         {posts.map((post) => (
           <Link key={post.slug} href={`/blog/${post.slug}`} className="card post-card">

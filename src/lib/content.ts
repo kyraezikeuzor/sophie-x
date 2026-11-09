@@ -25,6 +25,6 @@ export const posts = [
     slug: "why-is-it-so-hard-to-talk-about",
     title: "Mental health is part of life. So why is it still so hard to talk about?",
     author: "Sophie Xu",
-    excerpt: "Real conversations. Real experiences. Why we started Louder Than Your Thoughts.",
+    excerpt: "Real conversations. Real experiences. Why Girls Who Rise began.",
   },
 ] as const;
