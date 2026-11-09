@@ -4,8 +4,8 @@ import { SiteHeader } from "@/components/SiteHeader";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: { default: "Louder Than Your Thoughts", template: "%s | Louder Than Your Thoughts" },
-  description: "A mental health organization for teens, started by Sophie Xu.",
+  title: { default: "Girls Who Rise", template: "%s | Girls Who Rise" },
+  description: "A mental health podcast for teen girls, created by Sophie Xu.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

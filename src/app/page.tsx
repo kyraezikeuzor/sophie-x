@@ -19,14 +19,14 @@ export default function HomePage() {
             <img src="/sophie-portrait.jpg" alt="Portrait of Sophie Xu" />
             <figcaption>
               <span className="photocard-name">Sophie Xu, founder</span>
-              <span className="photocard-quote">&ldquo;So I started building what I wished existed.&rdquo;</span>
+              <span className="photocard-quote">&ldquo;I wanted girls to know they&apos;re not alone.&rdquo;</span>
             </figcaption>
           </figure>
           <div className="rise rise-2">
             <h1>Empowering a Generation of Girls to Feel Heard</h1>
             <p className="hero-sub">
-              Louder Than Your Thoughts is a mental health organization for teens, started by Sophie Xu. Our podcast is
-              coming soon.
+              Girls Who Rise is a podcast for teen girls, created by Sophie Xu. Honest conversations about the things
+              we don&apos;t always know how to say out loud.
             </p>
             <SignupForm />
           </div>
@@ -49,8 +49,8 @@ export default function HomePage() {
             <div>
               <h2>Meet Sophie Xu</h2>
               <p className="muted">
-                &ldquo;I&apos;m a teenager who got tired of mental health content that either felt too clinical or too
-                vague to actually help. So I started building what I wished existed.&rdquo;
+                &ldquo;As a teenager, I know how hard it can be to talk about what we&apos;re going through. I wanted to
+                create a space where girls could feel heard, share their experiences, and know they&apos;re not alone.&rdquo;
               </p>
               <Link href="/about" className="btn btn-secondary">About us</Link>
             </div>
@@ -64,14 +64,13 @@ export default function HomePage() {
           <div>
             <h2 className="section-title">Mental health is part of life. So why is it still so hard to talk about?</h2>
             <p>
-              Louder Than Your Thoughts is a teen mental health podcast made to make those conversations easier, more
-              honest, and more relatable.
+              Girls Who Rise is a podcast for teen girls that makes room for honest conversations about what we&apos;re
+              going through, even when it&apos;s hard to find the words.
             </p>
             <p>
-              Hosted by Sophie Xu, the show talks about what teens actually experience, all the way from school stress and
-              friendships to emotions, confidence, and everything in between. Through real conversations, personal
-              stories, expert perspectives, and reliable resources, it&apos;s a space where teens can learn, share, and
-              feel less alone.
+              Hosted by Sophie Xu, the show explores school, friendships, family, confidence, and the feelings we often
+              keep to ourselves. With real stories and thoughtful conversations, Girls Who Rise is here to help you
+              feel understood and a little less alone.
             </p>
           </div>
           <ul className="card checklist">

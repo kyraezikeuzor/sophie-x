@@ -15,7 +15,7 @@ export default function BlogPostPage() {
       <PageHeader title={post.title} subtitle={`By ${post.author}`} />
       <section className="card panel rise rise-2">
         <p className="lead">
-          The Louder Than Your Thoughts podcast makes conversations about mental health easier, more honest, and more
+          The Girls Who Rise podcast makes conversations about mental health easier, more honest, and more
           relatable.
         </p>
         <p className="muted" style={{ marginBottom: 0 }}>

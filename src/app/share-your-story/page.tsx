@@ -8,7 +8,7 @@ const formUrl =
 
 export default function ShareYourStoryPage() {
   return (
-    <main id="main" className="page page-wide">
+    <main id="main" className="page page-wide share-page">
       <PageHeader
         title="Share your story"
         subtitle="With a parent or guardian's permission, I'd love to feature your experience, anonymously if you prefer. Every submission is read before anything is used."
