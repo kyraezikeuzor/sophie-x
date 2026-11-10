@@ -1,9 +1,6 @@
 export const navItems = [
-  { href: "/", label: "Home" },
-  { href: "/blog", label: "Blog" },
-  { href: "/episodes", label: "Episodes" },
   { href: "/resources", label: "Resources" },
-  { href: "/about", label: "About us" },
+  { href: "/about", label: "About" },
 ] as const;
 
 export const ctaItem = { href: "/share-your-story", label: "Share your story" } as const;
