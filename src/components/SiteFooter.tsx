@@ -13,8 +13,6 @@ export function SiteFooter() {
           <div className="footer-fine">
             <ul className="foot-links">
               <li><a href="https://www.instagram.com/girls.whorise/" target="_blank" rel="noopener noreferrer">@girls.whorise</a></li>
-              <li>TikTok</li>
-              <li>Spotify</li>
             </ul>
             <p>
               Girls Who Rise offers general education. It is not a substitute for
